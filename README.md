@@ -1,5 +1,6 @@
 # Interactive-Dashboard-by-Stremlit
-An interactive dashboard where you find NetflixOriginals films grouped by genre ,language ,IMDB Score and duration . This project was created due to Streamlit package where I found many helpful tools that facilized my work.  
+An interactive dashboard where you can find NetflixOriginals films grouped by genre ,language ,IMDB Score and duration . This project was created due to Streamlit package where I found many helpful tools that facilized my work.  
+NetflixOriginals.csv is the data base that that you need to download to load the data from .
 
 # Welcome to Streamlit :wave:
 
